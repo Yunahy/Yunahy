@@ -33,5 +33,7 @@
 
 
 
-###
+***
+<p align="center"> omg hi denq POINTS</p>
+<img src= "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/97f356e7-0b7a-4e9a-afaa-6026b3b02414/djy0pd9-b31c5842-d66e-4e54-82ac-2e88f59b4024.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85N2YzNTZlNy0wYjdhLTRlOWEtYWZhYS02MDI2YjNiMDI0MTQvZGp5MHBkOS1iMzFjNTg0Mi1kNjZlLTRlNTQtODJhYy0yZTg4ZjU5YjQwMjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MeDtmC-vGr2ETZQ1VgLiC0Ld8zfy_dLn-VtbUGBQMKo" />
 
